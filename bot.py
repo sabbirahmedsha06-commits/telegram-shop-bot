@@ -15,7 +15,7 @@ from telegram.ext import (
 # SETTINGS
 # =========================
 
-BOT_TOKEN = os.getenv("o8869595:AAHZ0p5ehDKtjhAg0N4KEtkdrvwVH-w6Q7o"o
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # তোমার Telegram numeric ID এখানে বসাবে
 ADMIN_ID = int(os.getenv("ADMIN_ID", "8752830051"))
